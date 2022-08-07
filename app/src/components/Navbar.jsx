@@ -13,6 +13,12 @@ function Navbar() {
 				<li>
 					<Link to="/about">About</Link>
 				</li>
+				<li>
+					<Link to="/message">Message</Link>
+				</li>
+				<li>
+					<Link to="/state">State</Link>
+				</li>
 			</ul>
 		</nav>
 	)
